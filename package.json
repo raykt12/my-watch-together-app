@@ -1,0 +1,13 @@
+{
+  "name": "my-watch-together-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+      "dev": "vercel dev",
+      "build": "echo \"No build step\"",
+      "start": "node server.js"
+  },
+  "dependencies": {
+      "socket.io": "^4.0.0"
+  }
+}
